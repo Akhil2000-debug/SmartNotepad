@@ -1,5 +1,5 @@
 # SMARTNOTEPAD
-This Project is Made by Mehul Dekate.
+This Project is Made by Akhil Yadav.
 
 This project is a smart notepad designed using python. Additional Features - Speech Recognition, File Encryption and Color Pallet.
 
